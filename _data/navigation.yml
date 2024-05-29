@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "개발일기"
-    url: /posts/
+  - title: "한 것들 기록"
+    url: /publications/
 
-  - title: "근황일기"
+  - title: "근황 주저리"
     url: /talks/    
 
   # - title: "Teaching"
