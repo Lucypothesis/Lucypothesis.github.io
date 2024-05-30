@@ -1,3 +1,12 @@
+---
+layout: post
+title: "240530(목) 03 앙상블 학습"
+subtitle: "[Tips]"
+date: 2024-05-30 23:54
+background: 
+tag: [Tips, Github io, Notion]
+---
+
 ## 03 앙상블 학습
 
 앙상블 학습이란! 여러 개의 Classifier를 생성하고 그 예측을 결합해서 더 정확하게 예측하는 기법! 여러 사람이 모이면 더 좋은 결과가 나온다는 집단 지성 느낌이라고 생각하면 된다.
