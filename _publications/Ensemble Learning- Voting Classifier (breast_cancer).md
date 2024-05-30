@@ -20,7 +20,7 @@ tag: [Tips, Github io, Notion]
 
 Voting, Bagging 둘 다 여러 개의 분류기가 투표를 해서 최종 결과를 예측함. Voting은 다른 알고리즘 분류기를 결합하고 Bagging은 같은 알고리즘 분류기를 결합하지만 데이터 샘플링을 다르게 가져가서 학습하여 Voting을 수행함. Bagging의 대표적인 방식이 RandomForest임   
 
-![Hard & Soft Voting](images/1.png)
+![Hard & Soft Voting](/_publications/1.png)
 
 Bootstrapping: Bagging 분류기에서 개별 Classifier에게 데이터를 샘플링해서 추출하는 방식
 
@@ -31,7 +31,7 @@ Bootstrapping: Bagging 분류기에서 개별 Classifier에게 데이터를 샘�
 Voting 유형- 1. **Hard Voting** / 2. **Soft Voting**
 Hard Voting은 다수결, Soft Voting은 확률 평균내서 구함. 일반적으로 Soft Voting이 쓰임. Hard Voting보다 예측 성능이 좋기 때문
 
-![Hard & Soft Voting](images/2.png)
+![Hard & Soft Voting](/_publications/2.png)
 
 ### sklearn은 Voting 방식의 앙상블을 구현한 VotingClassifier 클래스를 제공함. 아래는 위스콘신 유방암 데이터 세트를 예측 분석하는 코드임
 
