@@ -1,3 +1,12 @@
+---
+layout: post
+title: "240605(수) CUDA란?"
+subtitle: "[Tips]"
+date: 2024-06-05 23:14
+background: 
+tag: [Tips, Github io, Notion]
+---
+
 # CUDA 란?
 - CUDA(Compute Unified Device Architecture)   
 - NVIDIA가 개발한 병렬 컴퓨팅 플랫폼 및 프로그래밍 모델임   
