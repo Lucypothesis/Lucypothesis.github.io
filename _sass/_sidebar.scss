@@ -6,25 +6,54 @@
    Default
    ========================================================================== */
 
+// .sidebar {
+//   -webkit-transform: translate3d(0, 0 , 0);
+//           transform: translate3d(0, 0 , 0);
+
+//   @include clearfix();
+//   margin-bottom: 1em;
+
+//   @media screen and (min-width: $sidebar-screen-min-width) {
+//     height: 100vh;
+//     overflow-y: auto;               // Add scrollbar if the sidebar is too long
+//     position: fixed;
+//     padding-top: $masthead-height;
+//   }
+
+//   @include breakpoint($large) {
+//     @include span(2.5 of 12);
+//     opacity: 1;
+//     -webkit-transition: opacity 0.2s ease-in-out;
+//             transition: opacity 0.2s ease-in-out;
+
+//     &:hover {
+//       opacity: 1;
+//     }
+//   }
+
+//   @include breakpoint($x-large) {
+//     max-width: $sidebar-link-max-width;
+//     padding-right: 0;
+//   }
+
 .sidebar {
-  -webkit-transform: translate3d(0, 0 , 0);
-          transform: translate3d(0, 0 , 0);
+  -webkit-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
 
   @include clearfix();
   margin-bottom: 1em;
-
-  @media screen and (min-width: $sidebar-screen-min-width) {
-    height: 100vh;
-    overflow-y: auto;               // Add scrollbar if the sidebar is too long
-    position: fixed;
-    padding-top: $masthead-height;
-  }
+  position: fixed;             // 고정 위치 설정
+  top: 0;                      // 상단에서부터의 위치
+  left: 0;                     // 왼쪽에서부터의 위치
+  height: 100vh;               // 전체 뷰포트 높이
+  overflow-y: auto;            // 내용이 길어질 경우 스크롤바 표시
+  padding-top: $masthead-height;  // 상단 패딩 설정
 
   @include breakpoint($large) {
     @include span(2.5 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
-            transition: opacity 0.2s ease-in-out;
+    transition: opacity 0.2s ease-in-out;
 
     &:hover {
       opacity: 1;
@@ -35,6 +64,8 @@
     max-width: $sidebar-link-max-width;
     padding-right: 0;
   }
+}
+
 
   h2, h3, h4, h5, h6 {
     margin-bottom: 0;
