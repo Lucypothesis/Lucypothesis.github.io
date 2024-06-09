@@ -109,8 +109,9 @@
   @include clearfix();
   margin-bottom: 1em;
   position: fixed;             // 고정 위치 설정
-  top: 0;                      // 상단에서부터의 위치
+  top: 20px;                      // 상단에서부터의 위치
   left: 20px;                     // 왼쪽에서부터의 위치
+  right: 20px;                     // 왼쪽에서부터의 위치
   height: 100vh;               // 전체 뷰포트 높이
   overflow-y: auto;            // 내용이 길어질 경우 스크롤바 표시
   padding-top: $masthead-height;  // 상단 패딩 설정
