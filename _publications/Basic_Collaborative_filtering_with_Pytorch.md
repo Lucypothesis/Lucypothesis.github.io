@@ -1,3 +1,12 @@
+---
+layout: post
+title: "240608(토) Building RecSys with PyTorch using Collaborative Filtering"
+subtitle: "[Tips]"
+date: 2024-06-08 21:44
+background: 
+tag: [Tips, Github io, Notion]
+---
+
 # Bulding Recommender System with PyTorch using Collaborative Filtering
 [Youtube 링크](https://www.youtube.com/watch?v=Wj-nkk7dFS8)   
 [데이터셋](https://grouplens.org/datasets/movielens/latest/)
