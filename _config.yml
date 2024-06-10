@@ -22,11 +22,11 @@ repository               : "Lucypothesis/Lucypothesis.github.io"
 author:
   # Biographic information
   avatar           : "kirby3.png"
-  name             : "루시의 깃헙블로그"
+  name             : "루시는 박씨"
   pronouns         : # example: "she/her"  
   bio              : "비전공자의 개발일기"
   location         : "Seoul, South Korea"
-  employer         : KNUE Elementary Edu
+  employer         : KNUE Elementary Edu..
   uri              : # URL
   email            : "lucypothesis@gmail.com"
 
