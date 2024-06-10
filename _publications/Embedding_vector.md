@@ -1,3 +1,13 @@
+---
+layout: post
+title: "240609(일) Embedding Vector란?"
+subtitle: "[Tips]"
+date: 2024-06-09 11:08
+background: 
+tag: [Tips, Github io, Notion]
+---
+
+
 참고영상: [A Beginner's Guide to Vector Embeddings](https://www.youtube.com/watch?v=NEreO2zlXDk)
 
 
