@@ -1,3 +1,12 @@
+---
+layout: post
+title: "240611(화) H&M ML 예제코드"
+subtitle: "[Tips]"
+date: 2024-06-11 15:20
+background: 
+tag: [Tips, Github io, Notion]
+---
+
 ```python
 import time
 import numpy as np
