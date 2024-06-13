@@ -26,3 +26,6 @@ group :jekyll_plugins do
   gem 'hawkins'
   gem "webrick", "~> 1.8"
 end
+
+# 240613 추가
+gem 'faraday-retry'
