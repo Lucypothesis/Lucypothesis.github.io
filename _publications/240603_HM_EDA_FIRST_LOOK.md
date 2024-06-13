@@ -1,3 +1,12 @@
+---
+layout: post
+title: "240603(월) H&M EDA FIRST LOOK 정리"
+subtitle: "[Tips]"
+date: 2024-06-03 19:22
+background: 
+tag: [Tips, Github io, Notion]
+---
+
 링크:
 https://www.kaggle.com/code/vanguarde/h-m-eda-first-look
 
