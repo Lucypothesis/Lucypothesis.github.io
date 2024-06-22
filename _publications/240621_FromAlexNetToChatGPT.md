@@ -1,3 +1,12 @@
+---
+layout: post
+title: "240621(금) [온라인강의] FromAlexNetToChatGPT"
+subtitle: "[Tips]"
+date: 2024-06-21 17:33
+background: 
+tag: [Tips, Github io, Notion]
+---
+
 # FromAlexNetToChatGPT
 
 ### **~ 목차 ~**
