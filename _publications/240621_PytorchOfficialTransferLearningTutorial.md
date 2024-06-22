@@ -1,3 +1,12 @@
+---
+layout: post
+title: "240621(금) [과제] 난이도(하)-2 PytorchOfficialTransferLearningTutorial"
+subtitle: "[Tips]"
+date: 2024-06-21 17:37
+background: 
+tag: [Tips, Github io, Notion]
+---
+
 # PytorchOfficialTransferLearningTutorial
 
 [참고한 링크](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html)
