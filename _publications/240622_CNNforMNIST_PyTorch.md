@@ -1,3 +1,12 @@
+---
+layout: post
+title: "240624(월) [과제] 난이도(중)-1 Convolutional Neural Networks를 직접 구성하여 99% 이상의 성능을 내는 MNIST 분류기 만들기"
+subtitle: "[Tips]"
+date: 2024-06-24 14:34
+background: 
+tag: [Tips, Github io, Notion]
+---
+
 # Convolutional Neural Networks를 직접 구성하여 99% 이상의 성능을 내는 MNIST 분류기 만들기
 
 1. Convolution 연산, Flatten 연산, Fully Connected 레이어, Activation 연산만을 가지고 MNIST 분류기 만들기
