@@ -1,3 +1,12 @@
+---
+layout: post
+title: "240624(월) [과제] 난이도(중)-2 Recurrent Neural Networks (RNN or LSTM or GRU)를 직접 구성하여 98% 이상의 성능을 내는 MNIST 분류기 만들기"
+subtitle: "[Tips]"
+date: 2024-06-24 22:21
+background: 
+tag: [Tips, Github io, Notion]
+---
+
 **난이도(중) 2번문제**   
 Recurrent Neural Networks (RNN or LSTM or GRU)를 직접 구성하여 98% 이상의 성능을 내는 MNIST 분류기 만들기
 
