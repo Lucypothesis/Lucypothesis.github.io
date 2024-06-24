@@ -4,6 +4,7 @@ title: "240624(월) [과제] 난이도(중)-2 Recurrent Neural Networks (RNN or 
 subtitle: "[Tips]"
 date: 2024-06-24 22:21
 background: 
+categories: technology
 tag: [Tips, Github io, Notion]
 ---
 
