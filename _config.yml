@@ -270,6 +270,9 @@ defaults:
       author_profile: true
       share: true
 
+category_page:
+  layout: category
+  title: "Posts in category: :name"
 
 # Sass/SCSS
 sass:
