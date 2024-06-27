@@ -1,3 +1,12 @@
+---
+layout: post
+title: "240626(수) [온라인강의] Pytorch10_CNN구현"
+subtitle: "[Tips]"
+date: 2024-06-26 22:30
+background: 
+tag: [Tips, Github io, Notion]
+---
+
 # [온라인강의]Pytorch10_CNN구현
 
 ### **~ 목차 ~**
