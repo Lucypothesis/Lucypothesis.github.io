@@ -1,3 +1,12 @@
+---
+layout: post
+title: "240626(수) [온라인강의] Pytorch7_DNN구현1"
+subtitle: "[Tips]"
+date: 2024-06-26 22:10
+background: 
+tag: [Tips, Github io, Notion]
+---
+
 # [온라인강의]Pytorch7_DNN구현1
 
 ### **~ 목차 ~**
