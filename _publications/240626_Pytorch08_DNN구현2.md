@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "240626(수) [온라인강의] Pytorch8_DNN구현1"
+title: "240626(수) [온라인강의] Pytorch8_DNN구현2"
 subtitle: "[Tips]"
 date: 2024-06-26 22:13
 background: 
