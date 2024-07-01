@@ -21,15 +21,3 @@
       {% include nav_list nav=page.sidebar.nav %}
     {% endif %}
   {% endif %}
-
-  <!-- 카테고리 목록 추가 -->
-  <div class="sidebar-module">
-    <h4>Categories</h4>
-    <ol class="list-unstyled">
-      {% for category in site.categories %}
-        <li><a href="{{ site.baseurl }}/categories/{{ category | first | slugify }}">{{ category | first }}</a></li>
-      {% endfor %}
-    </ol>
-  </div>
-  </div>
-{% endif %}
