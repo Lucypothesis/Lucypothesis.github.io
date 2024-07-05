@@ -1,19 +1,19 @@
 # main links links
 main:
-  - title: "TIL"
+  - title: "TIL(🌟)"
+    url: /posts/
+  
+  - title: "강의 내용 정리"
     url: /publications/
 
   - title: "근황 주저리"
-    url: /talks/    
-
+    url: /talks/   
+  
   # - title: "Teaching"
   #   url: /teaching/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
-        
-  # - title: "Blog Posts"
-  #   url: /posts/
     
   # - title: "CV"
   #   url: /cv/
