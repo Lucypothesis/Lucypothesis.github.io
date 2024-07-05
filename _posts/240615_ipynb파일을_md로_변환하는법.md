@@ -1,3 +1,12 @@
+---
+layout: post
+title: "240615(토) CUDA란?"
+subtitle: "[Tips]"
+date: 2024-06-15 10:14
+background: 
+tag: [Tips, Github io, Notion]
+---
+
 # ipynb파일을 md로 변환하는 법
 
 ~ 서론 ~    
