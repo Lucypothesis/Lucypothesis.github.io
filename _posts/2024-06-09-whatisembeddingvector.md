@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "240609(일) Embedding Vector란?"
-subtitle: "[Tips]"
-date: 2024-06-09 11:08
-background: 
-tag: [Tips, Github io, Notion]
+title: 'Embedding Vector란?'
+date: 2024-06-09
+permalink: /posts/2024/06/whatisembeddingvector/
+tags:
+  - cool posts
+  - category1
+  - category2
 ---
 
 
