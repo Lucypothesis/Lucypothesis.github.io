@@ -1,13 +1,11 @@
 ---
-layout: post
-title: "240629(토) 임포트 방식의 차이"
-subtitle: "[Tips]"
-date: 2024-07-01 20:20
-background: 
-tag: [Tips, Github io, Notion]
-toc: true
-toc_label: '목차'
-toc_icon: 'cog'
+title: '임포트 방식의 차이'
+date: 2024-07-01
+permalink: /posts/2024/06/thingstoconsiderwhenimportinglibraries/
+tags:
+  - cool posts
+  - category1
+  - category2
 ---
 
 # 임포트 방식의 차이
