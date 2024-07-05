@@ -1,16 +1,17 @@
 ---
 layout: archive
-title: "Posts"
+title: Posts
 permalink: /posts/
 author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  You can also find my articles on my Google Scholar profile.
 {% endif %}
-
 {% include base_path %}
 
-{% for post in site.posts reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="posts">
+  {% for post in site.posts %}
+    {% include archive-single.html %}
+  {% endfor %}
+</div>
