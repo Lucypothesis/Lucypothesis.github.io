@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "240529(수) Github Blog 제작일기"
-subtitle: "[Tips]"
-date: 2024-05-29 20:54
-background: 
-tag: [Tips, Github io, Notion]
+title: '나의 Github Blog 제작일기'
+date: 2024-05-29
+permalink: /posts/2024/05/journeyofmemakingmygithubblog/
+tags:
+  - cool posts
+  - category1
+  - category2
 ---
 
 길고 길었던 나의 깃헙블로그 만든 과정을 기록해보려고 한다.
