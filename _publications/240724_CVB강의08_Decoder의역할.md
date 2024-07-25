@@ -1,3 +1,12 @@
+---
+layout: post
+title: "240724(수) [온라인강의] CVB강의8-Decoder의역할"
+subtitle: "[Tips]"
+date: 2024-07-24 22:25
+background: 
+tag: [Tips, Github io, Notion]
+---
+
 # CVB강의8-Decoder의역할
 
 **목차**
