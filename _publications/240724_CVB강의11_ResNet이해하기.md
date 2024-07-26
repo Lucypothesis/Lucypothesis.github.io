@@ -1,3 +1,12 @@
+---
+layout: post
+title: "240724(수) [온라인강의] CVB강의11-ResNet이해하기"
+subtitle: "[Tips]"
+date: 2024-07-24 22:31
+background: 
+tag: [Tips, Github io, Notion]
+---
+
 # CVB강의11-ResNet이해하기
 
 **목차**
