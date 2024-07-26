@@ -1,3 +1,12 @@
+---
+layout: post
+title: "240724(수) [온라인강의] CVB강의10-AlexNet,VGG이해하기"
+subtitle: "[Tips]"
+date: 2024-07-24 22:28
+background: 
+tag: [Tips, Github io, Notion]
+---
+
 # CVB강의10-AlexNet,VGG이해하기
 
 **목차**
