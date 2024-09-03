@@ -1,3 +1,13 @@
+---
+title: '로컬에서 SSH를 통해 Colab GPU 사용하기'
+date: 2024-09-03
+permalink: /posts/2024/09/colabsshconnectionforupload/
+tags:
+  - cool posts
+  - category1
+  - category2
+---
+
 # 로컬에서 SSH를 통해 Colab GPU 사용하기
 
 ## 1. 연결하게 된 계기
