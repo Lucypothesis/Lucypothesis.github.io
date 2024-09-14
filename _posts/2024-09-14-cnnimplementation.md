@@ -1,3 +1,13 @@
+---
+title: 'CNN 구현하기'
+date: 2024-09-14
+permalink: /posts/2024/09/cnnimplementation/
+tags:
+  - cool posts
+  - category1
+  - category2
+---
+
 # CNN 구현하기
 
 참고문헌: 책 『밑바닥부터 시작하는 딥러닝』 Chapter7. 합성곱 신경망(CNN)
